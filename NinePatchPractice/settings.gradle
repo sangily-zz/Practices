@@ -1,0 +1,2 @@
+rootProject.name = "NinePatchPractice"
+include ':app'
