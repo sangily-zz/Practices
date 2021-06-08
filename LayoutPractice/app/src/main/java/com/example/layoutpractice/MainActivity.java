@@ -16,8 +16,8 @@ public class MainActivity extends AppCompatActivity {
 		Layout1 layout1 = findViewById(R.id.layout1);
 
 		layout1.setImage(R.drawable.ic_launcher_foreground);
-		layout1.setName("이혜진");
-		layout1.setMobile("010-5207-0968");
+		layout1.setName("홍길동");
+		layout1.setMobile("010-0000-0000");
 
 		Button button = findViewById(R.id.button);
 		button.setOnClickListener(new View.OnClickListener() {
